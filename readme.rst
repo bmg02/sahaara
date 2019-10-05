@@ -4,13 +4,13 @@ CHMA -  Centralized HealthCare Management & Analysis
 
 
 
-Sahaara is an initiative idea for government to bring medical sector on digital platform. This platform stores the the medical history of all citizens of the country. All the details of patients, doctors, hospitals, pharmacy companies and their medicines' will come online. This system also promoting the paperless digitalizing the medical system.
+CHMA is an initiative for managing healthcare data of each and every individual people on a centralized platform. 
 
 *******************
 Purpose & Goal
 *******************
 
-Our purpose is to bring the medical procedure online and make digitally centralized medical system. When a patient goes in hospital or clinic, they have to bring a file with them. They have to carry data a file which contains their medical history. Then the doctor uses that history to identify the cause of disease. This process is totally based on file. Means it is paper-based. 
+Our purpose is to make a Digitalize platform for Managing HealthCare Information Centrally and analyzing the information. To help Government to identify Critical Disease in particular area from the data gathered and to take appropriate action for resolving the issue. To help Government track the record of disease and infected person and to monitor regularly about its effects on people whether it is increasing year by year or decreasing with the help of real time Graphical Representation.
 
 **************************
 Changelog and New Features
