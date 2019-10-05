@@ -1,24 +1,16 @@
 ###################
-सहारा - Sahaara
+CHMA -  Centralized HealthCare Management & Analysis
 ###################
 
-Backbone of every citizen
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+
+Sahaara is an initiative idea for government to bring medical sector on digital platform. This platform stores the the medical history of all citizens of the country. All the details of patients, doctors, hospitals, pharmacy companies and their medicines' will come online. This system also promoting the paperless digitalizing the medical system.
 
 *******************
-Release Information
+Purpose & Goal
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+Our purpose is to bring the medical procedure online and make digitally centralized medical system. When a patient goes in hospital or clinic, they have to bring a file with them. They have to carry data a file which contains their medical history. Then the doctor uses that history to identify the cause of disease. This process is totally based on file. Means it is paper-based. 
 
 **************************
 Changelog and New Features
